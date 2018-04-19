@@ -2,6 +2,7 @@
       // Mazen Aljuaid
 
 session_start();
+echo "hello"
 require_once 'dbconnect.php';
 
 //If already logged in. Show success page.
